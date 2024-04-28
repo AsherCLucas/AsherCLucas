@@ -1,0 +1,7 @@
+- 👋 Hey, I’m Asher Lucas
+-  I’m interested in game development and software development towards making life convenient
+-  I’m currently in college to earn a Bachelor's in Software Development
+-  I’m looking to collaborate on learning code and creating an inclusive code in the future to make technology more accessible.
+-  The best way to reach me is through email
+-  Pronouns: He/him
+-  Fun fact: I grew up learning how to garden and I also co-owned apoartments with my grandmother when I was 16.
